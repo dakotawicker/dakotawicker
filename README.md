@@ -10,7 +10,7 @@ I'm a U.S. veteran and Computer Science student at Arkansas State University, tr
 
 ## 🎯 My Goals
 
-- Become a well-rounded backend or cybersecurity-focused developer by 2026
+- Become a well-rounded backend developer by 2026
 - Develop scalable tools and systems that solve real problems
 - Maintain discipline through consistent learning, fitness, and self-improvement
 
